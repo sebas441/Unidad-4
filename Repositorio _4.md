@@ -88,7 +88,47 @@ while y cambiarlo al for
 
 <img width="573" height="389" alt="image" src="https://github.com/user-attachments/assets/a300e45a-fdee-4865-8ed4-6ac73678a0df" />
 
+## 17/09/2026                    
 
+<img width="749" height="497" alt="image" src="https://github.com/user-attachments/assets/7608a9d3-c3e3-4d11-a0ae-931787688d15" />                            
+al final tenemos sub listas y un rango como [2:] que es que inicia desde 2 hasta lo que tenga            
+
+# ejercicio                              
+
+# Datos de vuelo para un avión comercial                              
+tiempo = [0, 10, 20, 30, 40, 50, 60]  # segundos              
+altitud = [0, 100, 500, 1000, 1500, 2000, 2200]  # metros                 
+velocidad = [0, 50, 100, 150, 200, 250, 300]  # km/h            
+estado = ["despegue", "ascenso inicial", "ascenso", "ascenso", "ascenso", "nivelación", "crucero"]                      
+
+# Imprimir informe de despegue                            
+print("INFORME DE DESPEGUE:")             
+for t, a, v, est in zip(tiempo, altitud, velocidad, estado):                   
+    print(f"T+{t}s: Altitud={a}m, Velocidad={v}km/h, Fase={act}")                            
+
+<img width="873" height="919" alt="image" src="https://github.com/user-attachments/assets/8f02f836-94e5-46e6-bf44-c0145fc4b5b1" />                                  
+
+# Quiz 1               
+<img width="989" height="953" alt="image" src="https://github.com/user-attachments/assets/8f7f3dbb-ea5c-4cb0-a27f-f77f8598aabf" />               
+
+## Métodos de lista
+
+<img width="694" height="629" alt="image" src="https://github.com/user-attachments/assets/979364a5-370d-4077-8574-e256bff5f255" />
+
+# Método insert
+los demás los probare en casa 
+
+<img width="1115" height="820" alt="image" src="https://github.com/user-attachments/assets/b12d88e4-4061-4e58-bf8e-644bfe2d7d8c" />                
+
+
+
+
+
+
+
+
+
+ 
 
 
 
