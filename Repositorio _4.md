@@ -120,7 +120,10 @@ los demás los probare en casa
 
 <img width="1115" height="820" alt="image" src="https://github.com/user-attachments/assets/b12d88e4-4061-4e58-bf8e-644bfe2d7d8c" />                
 
-
+## 22/09/2026
+## Listas con condicinales                
+<img width="971" height="963" alt="image" src="https://github.com/user-attachments/assets/a9b2343e-dc81-4ef9-808d-53d5a9206181" />           
+# con este código imprimes cualquier elemento de la lista a lo random             
 
 
 
