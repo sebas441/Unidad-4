@@ -125,6 +125,11 @@ los demás los probare en casa
 <img width="971" height="963" alt="image" src="https://github.com/user-attachments/assets/a9b2343e-dc81-4ef9-808d-53d5a9206181" />           
 # con este código imprimes cualquier elemento de la lista a lo random             
 
+## 29/09/2026  
+<img width="988" height="936" alt="image" src="https://github.com/user-attachments/assets/76d4ed92-15b7-4509-aa6b-153c305ded34" />  
+<img width="1042" height="238" alt="image" src="https://github.com/user-attachments/assets/b8f4dce5-945e-4567-a0f6-dbbc2e4e7455" />  
+
+
 
 
 
