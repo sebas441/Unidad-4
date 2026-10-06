@@ -42,7 +42,7 @@ def consultar_mantenimiento():
     for aeronave, datos in registro_aeronaves.items():
         for componente, info in datos["Componentes"].items():
             if info["Horas de uso"] >= info["Horas Limite"]:
-                print(f"El componente -{componente}- de la aeronave {aeronave} requiere mantenimiento")
+                print(f"El componente {componente} de la aeronave {aeronave} requiere mantenimiento, no puede despegar!!")
     print()
 
 while True:
@@ -68,3 +68,4 @@ while True:
         break
     else:
         print("Opción inválida.")
+
