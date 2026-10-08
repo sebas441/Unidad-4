@@ -28,26 +28,35 @@
 ## 5.) Reiniciar horas de uso de un componente  
 ### Pantallazo con componentes con cero horas de uso y otros con valor diferente de cero 
 
+# 1)
 <img width="453" height="203" alt="image" src="https://github.com/user-attachments/assets/b43d2b4e-5731-4d40-b150-1adaeb8a5778" />                         
 
-# 2 
+# 2)   
+
 <img width="449" height="206" alt="image" src="https://github.com/user-attachments/assets/8d54b56c-6e91-453a-b5a2-1cc1b3b7a00c" />                   
 
-# 3
+# 3)  
+
 <img width="445" height="206" alt="image" src="https://github.com/user-attachments/assets/32a66915-c578-4474-b142-98a8f997503d" />                  
 
-# 4 
+# 4)  
+
 <img width="448" height="203" alt="image" src="https://github.com/user-attachments/assets/5c32f4b2-99cf-4775-82c2-4bd40d0126d9" />              
 
-# 5
+# 5)  
+
+### Cambiamos horas de uso del componente para lo que nos piden con la Evaluación del 6
+
 <img width="441" height="204" alt="image" src="https://github.com/user-attachments/assets/8282e944-f454-4508-990b-3024f22ae92f" /> 
 
-### Cambiamos horas de uso del componente con la Evaluación del 6
+### Evaluación de Componente Ventanas sin cambios   
+
 <img width="629" height="154" alt="image" src="https://github.com/user-attachments/assets/48ec0c3c-7dcb-42f0-9a30-1980d7e0d278" />
 
-# 6 
+# 6)  
 <img width="439" height="206" alt="image" src="https://github.com/user-attachments/assets/b6ad2a76-c7d2-4e65-a8d1-e2bd35aeac05" />                     
 
-### Evaluación de Componente
+### Evaluación de Componente Ventanas con el cambio en horas de uso  
+
 <img width="220" height="264" alt="image" src="https://github.com/user-attachments/assets/0505516e-c8c9-412e-95e2-6b19b3351c6b" />
 
