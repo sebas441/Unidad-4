@@ -1,3 +1,5 @@
+# Juan Sebastián Núñez y Sebastián Espinal
+
 ## 1.) Registrar un nuevo avión  
 <img width="299" height="353" alt="image" src="https://github.com/user-attachments/assets/b2efb761-2745-482f-a589-245a9e9a015f" />  
 
